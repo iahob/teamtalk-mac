@@ -1,0 +1,43 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Protobuf (3.18.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.0)
+  - FMDB (~> 2.3)
+  - Protobuf (~> 3.18.1)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - FMDB
+    - Protobuf
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Protobuf: 0ac2cdc92fb5c33dab66dd1c4e9f9cc4c34d00ba
+
+PODFILE CHECKSUM: bdb99c2c8f64e16efbb4dc73ecbfdeb35dc372e0
+
+COCOAPODS: 1.11.3
